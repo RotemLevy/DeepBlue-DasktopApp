@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+DeepBlue - DeskopApp/Assets/Scenes/SampleScene.unity
+DeepBlue - DeskopApp/.DS_Store
+DeepBlue - DeskopApp/Assets/Scenes/SampleScene.unity
+DeepBlue - DeskopApp/Library/ArtifactDB
+*.log
+DeepBlue - DeskopApp/Logs/shadercompiler-UnityShaderCompiler0.log
